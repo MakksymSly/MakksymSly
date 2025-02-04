@@ -2,7 +2,7 @@
 <h3>Front-end developer with 1 year of practice, who loves creating high-performance and unique websites and web apps.
   <br>
   <br>
-  My English level is upper-intermediate
+  My English level is C1
 </h3>
 <br>
 <br>
