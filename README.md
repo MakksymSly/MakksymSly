@@ -1,5 +1,5 @@
 <h1>Hi, I'm Maksym Seliutin</h1>
-<h3>Front-end developer with 1 year of practice, who loves creating high-performance and unique websites and web apps.
+<h3>Front-end developer with 2 year of practice, who loves creating high-performance and unique websites and web apps.
   <br>
   <br>
   My English level is C1
