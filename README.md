@@ -1,5 +1,5 @@
 <h1>Hi, I'm Maksym Seliutin</h1>
-<h3>Front-end developer with 2 year of practice, who loves creating high-performance and unique websites and web apps.
+<h3> Full-stack developer with 3 years of practice, who loves creating high-performance and unique websites and web apps.
   <br>
   <br>
   My English level is C1
@@ -24,6 +24,7 @@
 </div>
 <h2>🫡 Back end</h2>
 <div>
+  <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 </div>
 <h2>🤖 Other tools</h2>
@@ -39,7 +40,7 @@
 <div>
 
    <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
-  <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  
   <br>
   <br>
 </div>
